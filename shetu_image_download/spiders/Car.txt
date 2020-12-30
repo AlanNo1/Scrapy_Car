@@ -1,0 +1,5 @@
+[TuGuan]
+#定义爬取的页数
+pagenum = 1
+
+
